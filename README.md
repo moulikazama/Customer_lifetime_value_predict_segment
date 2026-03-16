@@ -96,6 +96,7 @@ These insights help businesses focus on **high-value and recently active custome
 
 # Project Structure
 
+```
 customer-lifetime-value-prediction/
 │
 ├── data/
@@ -132,6 +133,7 @@ customer-lifetime-value-prediction/
 │
 ├── README.md
 └── requirements.txt
+```
 
 ---
 
